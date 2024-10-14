@@ -1,14 +1,25 @@
-<h1>- 👋 Hi Visitor</h1>
+<h1>👋 Hi Visitor</h1>
+
 <h2>I'm Rohit Singh!</h2>
-<h4>- 👀 I’m interested in Technological stuffs made with Code.<br>
-- 🌱 I’m currently learning C++ at the moment.<br>
-- 💞️ I’m looking to collaborate on Projects and Open source.<br>
-- 📫 How to reach me - @CodebyRoS (Twitter handle)<br>
-- 😄 Pronouns:he/him<br>
-- ⚡ Fun fact: I am very sophisticated and have a lot of sense of humour.<br>
+
+<h4>
+- 👀 I’m passionate about exploring the world of technology through code.<br>
+- 🌱 Currently diving deep into C++ and sharpening my skills.<br>
+- 💞️ Open to collaborating on exciting projects and contributing to open-source communities.<br>
+- 📫 Reach me on Twitter: [@CodebyRoS](https://twitter.com/CodebyRoS)<br>
+- 😄 Pronouns: he/him<br>
+- ⚡ Fun fact: I have a blend of sophistication and a great sense of humor.<br>
 </h4>
 
-<!---
-ProjectsRO-hit/ProjectsRO-hit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Technical Skills
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [Linux](https://www.linux.org/)
+- [Python](https://www.python.org/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
