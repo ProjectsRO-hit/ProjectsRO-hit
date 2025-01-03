@@ -1,6 +1,6 @@
 # 👋 Hi Visitor
 
-## I'm Rohit Singh!
+## I'm Rohit Kumar Singh!
 
 #### 👀 Passionate about exploring the world of technology through code.
 #### 🌱 Currently diving deep into C++ and sharpening my skills.
