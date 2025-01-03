@@ -35,7 +35,7 @@
 
 ### Socials:
 <div>
-  <a href="https://github.com/ProjectsRO-hit"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="[https://github.com/ProjectsRO-hit](https://projectsro-hit.github.io/)"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/rohit-kumar-singh-82b56b307"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://twitter.com/CodebyRoS"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
