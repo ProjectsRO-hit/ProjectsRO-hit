@@ -10,10 +10,12 @@
 #### ⚡ Fun fact: I have a blend of sophistication and a great sense of humor.
 
 ---
-
+## GitHub Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProjectsRo-hit)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=dark&show_icons=true)
+## GitHub Stats:
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=dark&show_icons=true)
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Currently learning:
 <div>
