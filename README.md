@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProjectsRo-hit)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=synthwave_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=dark&show_icons=true)
 
 ### Currently learning:
 <div>
