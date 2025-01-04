@@ -11,6 +11,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ProjectsRo-hit)](https://git.io/streak-stats)
+
 ### Currently learning:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
