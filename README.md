@@ -15,7 +15,7 @@
 ## GitHub Stats:
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=dark&show_icons=true)
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectsRO-hit&layout=compact)
 
 ### Currently learning:
 <div>
