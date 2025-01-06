@@ -11,7 +11,7 @@
 
 ---
 ## GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ProjectsRo-hit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ProjectsRO-hit&theme=dark)](https://git.io/streak-stats)
 ## GitHub Stats:
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectsRO-hit&theme=dark&show_icons=true)
 ## Top Languages
