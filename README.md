@@ -3,7 +3,7 @@
 ## I'm Rohit Kumar Singh!
 
 #### 👀 Passionate about exploring the world of technology through code.
-#### 🌱 Currently diving deep into C++ and sharpening my skills.
+#### 🌱 Currently diving deep into C++, Python and Web Development and sharpening my skills.
 #### 💞️ Open to collaborating on exciting projects and contributing to open-source communities.
 #### 📫 Reach me on Twitter: [@CodebyRoS](https://twitter.com/CodebyRoS)
 #### 😄 Pronouns: he/him
